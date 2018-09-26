@@ -19,23 +19,6 @@
             ]
         },
         {
-            "name": "Occasions",
-            "children": [
-                {
-                    "name": "Basics"
-                },
-                {
-                    "name": "Workwear"
-                },
-                {
-                    "name": "Chinese New Year"
-                },
-                {
-                    "name": "Streetwear"
-                }
-            ]
-        },
-        {
             "name": "Shoes",
             "children": [
                 {
@@ -808,6 +791,9 @@
                                         },
                                         {
                                             "name": "Outerwear"
+                                        },
+                                        {
+                                            "name": "Socks"
                                         }
                                     ]
                                 },
@@ -833,9 +819,6 @@
                                         },
                                         {
                                             "name": "Water Bottles"
-                                        },
-                                        {
-                                            "name": "Socks"
                                         },
                                         {
                                             "name": "Others"
@@ -889,6 +872,9 @@
                                         },
                                         {
                                             "name": "Bottoms"
+                                        },
+                                        {
+                                            "name": "Socks"
                                         }
                                     ]
                                 },
@@ -914,9 +900,6 @@
                                         },
                                         {
                                             "name": "Water Bottles"
-                                        },
-                                        {
-                                            "name": "Socks"
                                         },
                                         {
                                             "name": "Belts"
@@ -1023,9 +1006,6 @@
                             "children": [
                                 {
                                     "name": "Water Bottles"
-                                },
-                                {
-                                    "name": "Socks"
                                 },
                                 {
                                     "name": "Caps"
